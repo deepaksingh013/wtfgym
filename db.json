@@ -1,0 +1,96 @@
+{
+    "classes": [
+      {
+        "id": 1,
+        "name": "Yoga",
+        "description": "Join us for a relaxing session of yoga to unwind and stretch your body.",
+        "instructor": "John Doe",
+        "date": "2024-05-10",
+        "time": "09:00 AM",
+        "duration": "1 hour",
+        "day":"Monday",
+        "capacity": 20,
+        "participants": [],
+        "image": "https://plus.unsplash.com/premium_photo-1661762623756-b64eafacbae2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8eW9nYXxlbnwwfHwwfHx8MA%3D%3D"
+      },
+      {
+        "id": 2,
+        "name": "Zumba",
+        "description": "Get ready to dance and sweat with our energetic Zumba class.",
+        "instructor": "Jane Smith",
+        "date": "2024-05-11",
+        "time": "06:00 PM",
+        "duration": "1 hour",
+        "day":"Tuesday",
+        "capacity": 25,
+        "participants": [],
+        "image": "https://images.unsplash.com/photo-1527933053326-89d1746b76b9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8enVtYmF8ZW58MHx8MHx8fDA%3D"
+      },
+      {
+        "id": 3,
+        "name": "CrossFit",
+        "description": "Challenge yourself with our high-intensity CrossFit workout.",
+        "instructor": "Mike Johnson",
+        "date": "2024-05-12",
+        "time": "07:30 AM",
+        "duration": "1.5 hours",
+        "day":"Wednesday",
+        "capacity": 15,
+        "participants": [],
+        "image": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 4,
+        "name": "Pilates",
+        "description": "Strengthen your core and improve flexibility with our Pilates class.",
+        "instructor": "Sarah Lee",
+        "date": "2024-05-13",
+        "time": "10:00 AM",
+        "duration": "1 hour",
+        "day":"Thursday",
+        "capacity": 20,
+        "participants": [],
+        "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 5,
+        "name": "Spinning",
+        "description": "Pedal your way to fitness with our exhilarating Spinning class.",
+        "instructor": "Chris Evans",
+        "date": "2024-05-14",
+        "time": "05:30 PM",
+        "duration": "1 hour",
+        "day":"Friday",
+        "capacity": 20,
+        "participants": [],
+        "image": "https://images.unsplash.com/photo-1520877880798-5ee004e3f11e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 6,
+        "name": "Bootcamp",
+        "description": "Sweat it out and build strength in our intense Bootcamp workout.",
+        "instructor": "Emily Johnson",
+        "date": "2024-05-15",
+        "time": "06:30 AM",
+        "duration": "1 hour",
+        "day":"Saturday",
+        "capacity": 15,
+        "participants": [],
+        "image": "https://plus.unsplash.com/premium_photo-1664109999778-84bdb22b883a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 7,
+        "name": "Piloxing",
+        "description": "Experience the perfect blend of Pilates and boxing for a full-body workout.",
+        "instructor": "David Brown",
+        "date": "2024-05-16",
+        "time": "06:00 PM",
+        "day":"Sunday",
+        "duration": "1 hour",
+        "capacity": 20,
+        "participants": [],
+        "image": "https://media.istockphoto.com/id/1256005961/photo/outdoors-piloxing-practice.jpg?s=1024x1024&w=is&k=20&c=mB3imwTABI7HyS3HEBw6-wiLCS_BUb5vmVA2dTptcwI="
+      }
+    ]
+  }
+  
